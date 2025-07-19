@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "Panel de Configuración",
+    "darkMode": "Modo Oscuro",
+    "notifications": "Habilitar Notificaciones",
+    "beverage": "Bebida Favorita para Programar",
+    "language": "Idioma Preferido",
+    "summaryTitle": "Resumen de Configuración",
+    "enabled": "Habilitado",
+    "disabled": "Deshabilitado",
+    "On": "Activado",
+    "Off": "Desactivado",
+    "juice": "Jugo",
+    "coffee": "Café",
+    "energy": "Bebida Energética"
+  }
+}
+

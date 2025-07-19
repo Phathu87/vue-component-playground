@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "title": "Settings Panel",
+    "darkMode": "Dark Mode",
+    "notifications": "Enable Notifications",
+    "beverage": "Preferred Coding Beverage",
+    "juice": "Juice",
+    "coffee": "Coffee",
+    "energy": "Energy Drink",
+    "language": "Preferred Language",
+    "summaryTitle": "Settings Summary",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "on": "On",
+    "off": "Off"
+  }
+}

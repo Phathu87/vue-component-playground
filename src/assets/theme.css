@@ -1,0 +1,16 @@
+:root {
+  --text: #000000;
+  --bg: #f7faff;
+  --card-bg: #ffffff;
+  --input-bg: #ffffff;
+  --border: #ccc;
+}
+
+.dark {
+  --text: #f3f4f6;
+  --bg: #000000;
+  --card-bg: #334155;
+  --input-bg: #475569;
+  --border: #64748b;
+}
+

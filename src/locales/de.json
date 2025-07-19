@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "title": "Einstellungsfeld",
+    "darkMode": "Dunkelmodus",
+    "notifications": "Benachrichtigungen aktivieren",
+    "beverage": "Bevorzugtes Programmiergetränk",
+    "language": "Bevorzugte Sprache",
+    "summaryTitle": "Einstellung Übersicht",
+    "enabled": "Aktiviert",
+    "disabled": "Deaktiviert",
+    "on": "Ein",
+    "off": "Aus",
+    "juice": "Saft",
+    "coffee": "Kaffee",
+    "energy": "Energydrink"
+  }
+}

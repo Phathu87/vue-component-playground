@@ -1,0 +1,49 @@
+.dark-mode {
+  background-color: #121212 !important;
+  color: #eee !important;
+}
+
+.dark-mode button {
+  background-color: #333 !important;
+  color: #eee !important;
+  border: 1px solid #555 !important;
+}
+
+.dark-mode button:hover {
+  background-color: #555 !important;
+}
+
+.dark-mode input {
+  background-color: #222 !important;
+  color: #eee !important;
+  border: 1px solid #444 !important;
+}
+.dark-mode input:focus {
+  border-color: #888 !important;
+}
+
+:root {
+  --text: #222;
+  --bg: #f7faff;
+  --card-bg: #ffffff;
+  --input-bg: #ffffff;
+  --border: #ccc;
+}
+
+.dark {
+  --text: #f3f4f6;
+  --bg: #000000;
+  --card-bg: #000000;
+  --input-bg: #000000;
+  --border: #64748b;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+

@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "Instellingspaneel",
+    "darkMode": "Donkermodus",
+    "notifications": "Skakel Kennisgewings Aan",
+    "beverage": "Gunsteling Koderingsdrankie",
+    "language": "Voorkeurtaal",
+    "summaryTitle": "Instellingsopsomming",
+    "enabled": "Geaktiveer",
+    "disabled": "Gedeaktiveer",
+    "on": "Aan",
+    "off": "Af",
+    "juice": "Sap",
+    "coffee": "Koffie",
+    "energy": "Energiedrankie"
+  }
+}
+

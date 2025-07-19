@@ -1,0 +1,17 @@
+:root {
+  --bg: #f7faff;
+  --text: #0532c7;
+  --card-bg: #ffffff;
+  --input-bg: #ffffff;
+  --border: #ccc;
+  --highlight: #f59e0b;
+}
+
+.dark {
+  --bg: #1a1b1e;
+  --text: #e0e0e0;
+  --card-bg: #2a2b2e;
+  --input-bg: #1f2023;
+  --border: #444;
+  --highlight: #f59e0b;
+}

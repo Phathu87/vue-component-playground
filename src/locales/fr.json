@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "Panneau de Configuration",
+    "darkMode": "Mode Sombre",
+    "notifications": "Activer les Notifications",
+    "beverage": "Boisson Préférée pour Coder",
+    "language": "Langue Préférée",
+    "summaryTitle": "Résumé des Paramètres",
+    "enabled": "Activé",
+    "disabled": "Désactivé",
+    "on": "Activé",
+    "off": "Désactivé",
+    "juice": "Jus",
+    "coffee": "Café",
+    "energy": "Boisson Énergisante"
+  }
+}
+
